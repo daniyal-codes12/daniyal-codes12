@@ -1,114 +1,93 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Daniyal Channa!
+<img src="assets/daniyal-hero.svg" alt="Daniyal Channa - Software Engineering Student" width="100%" />
 
-### 💻 Software Engineering Student | Web Developer | Vibe Coder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Development+%7C+Vibe+Coding;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+Projects+with+AI;Learning+Java%2C+C%2B%2B+%26+Web+Development;Turning+Ideas+into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
+<p>
+  <a href="https://github.com/daniyal-codes12"><img src="https://img.shields.io/badge/GitHub-daniyal--codes12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://daniyal-travel-service.vercel.app/"><img src="https://img.shields.io/badge/Travel%20Service-Live%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Travel Service"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Software Engineering Student** at Sukkur IBA University
-- 💻 Learning software development and web technologies
-- 🤖 Interested in AI-assisted development and Vibe Coding
-- 🧠 Practicing problem-solving, OOP and Data Structures & Algorithms
-- 🌐 Building websites and digital projects
-- 🎯 **Career Goal:** Become a skilled software engineer and contribute to real-world projects
-- 📩 Open to internships, learning opportunities and collaboration
+Hi! I'm **Daniyal Channa**, a Software Engineering student at **Sukkur IBA University**. I enjoy learning how software works, building web projects, experimenting with AI-assisted development, and improving my problem-solving skills.
 
-## 🎓 Education
+- 🎓 **Education:** BS Software Engineering — Sukkur IBA University (Aug 2025–Present)
+- 💻 **Interests:** Software Development, Web Development, Vibe Coding, AI-assisted Development
+- 🧠 **Learning:** Java, C++, OOP, DSA, MySQL, DBMS, HTML, CSS, and Computer Networking
+- 🎨 **Creative interests:** Graphic Design and Canva
+- 🎯 **Goal:** Grow as a software engineer and contribute to meaningful real-world projects
+- 🤝 **Open to:** Internships, learning opportunities, and collaboration
 
-**Sukkur IBA University**
-- BS Software Engineering
-- August 2025 – Present
-
-**Career Trek Institute of Commerce & Management Science, Dadu**
-- Diploma in Information Technology
-- Grade: A
-
-**Noble Computer & English Coaching Centre**
-- Diploma in Computer Applications
-- Grade: A1
-
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode&perline=5" alt="Technology icons" />
 
 </div>
 
-- **Programming:** Java, C++
-- **Computer Science:** OOP, DSA, DBMS, Computer Networking
-- **Web Development:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
-- **Productivity:** Microsoft Word, Excel, PowerPoint
-- **Creative Skills:** Graphic Design, Canva
-- **Development Style:** AI-assisted Development, Vibe Coding
+| Area | Skills |
+|---|---|
+| Programming | Java, C++ |
+| Computer Science | Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA) |
+| Web | HTML, CSS, JavaScript |
+| Database | MySQL, DBMS |
+| Networking | Computer Networking fundamentals |
+| Tools | Git, GitHub, VS Code |
+| Productivity & Design | Microsoft Word, Excel, PowerPoint, Canva |
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### ✈️ Daniyal Travel Service
-Travel service website project.
+A travel-service website project.
 
-🔗 [View Live Website](https://daniyal-travel-service.vercel.app/)  
-📂 [View Source Code](https://github.com/daniyal-codes12/Daniyal-Travel-Service)
+- 🌐 **Live website:** [daniyal-travel-service.vercel.app](https://daniyal-travel-service.vercel.app/)
+- 💻 **Source code:** [Daniyal-Travel-Service on GitHub](https://github.com/daniyal-codes12/Daniyal-Travel-Service)
 
 ### 🌐 Personal Portfolio
-My personal portfolio website.
+My personal portfolio repository.
 
-📂 [View Portfolio Repository](https://github.com/daniyal-codes12/Daniyal-Channa-Software-Engineer-Portfolio)
+- 💻 **Repository:** [Daniyal-Channa-Software-Engineer-Portfolio](https://github.com/daniyal-codes12/Daniyal-Channa-Software-Engineer-Portfolio)
 
-### 🎮 Daniyal XO
-Tic-Tac-Toe game project.
+> More projects will be featured here as they are completed and verified.
 
-🔎 Explore my repositories for more projects.
-
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daniyal-codes12&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daniyal-codes12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-codes12&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-codes12&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=daniyal-codes12&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=daniyal-codes12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## 🎯 Currently Working On
+*Statistics and animated images are provided by external services and may occasionally be unavailable.*
 
-- 🚀 Improving my web development skills
-- 💡 Building projects with AI-assisted tools
-- 📚 Strengthening Java, C++, OOP and DSA fundamentals
-- 🌐 Improving my portfolio and GitHub profile
+## 🎯 Currently Focused On
 
-## 🤝 Connect With Me
+- 📚 Strengthening Java, C++, OOP, and DSA fundamentals
+- 🌐 Improving web development skills
+- 🤖 Exploring AI-assisted development workflows
+- 🚀 Building and polishing practical projects
+
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/daniyal-codes12">
-<img src="https://img.shields.io/badge/GitHub-Daniyal--Codes12-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://daniyal-travel-service.vercel.app/">
-<img src="https://img.shields.io/badge/Travel%20Project-Visit%20Website-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://github.com/daniyal-codes12"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://daniyal-travel-service.vercel.app/"><img src="https://img.shields.io/badge/Website-Daniyal%20Travel%20Service-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project"/></a>
 
 </div>
 
----
-
 <div align="center">
-
-### ⚡ Keep Learning. Keep Building. Keep Growing. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=daniyal-codes12&label=Profile%20Views&color=blueviolet&style=flat" />
-
+  <img src="assets/daniyal-footer.svg" alt="Keep learning, keep building" width="100%" />
+  <br/>
+  <sub>⚡ Keep Learning • Keep Building • Keep Growing 🚀</sub>
 </div>
