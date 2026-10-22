@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**daniyal-codes12/daniyal-codes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Daniyal Channa
 
-Here are some ideas to get you started:
+### 💻 Software Engineering Student | Web Development | Vibe Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀
+
+I enjoy building websites, exploring AI-assisted development, and creating digital projects.
+
+## 🚀 About Me
+- 💻 Interested in Web Development
+- 🤖 Exploring AI-assisted development and Vibe Coding
+- 🎨 Interested in Graphic Design
+- 🌱 Continuously learning and improving my skills
+
+## 🛠️ Skills & Interests
+- Web Development
+- Vibe Coding
+- AI-Assisted Development
+- Graphic Design
+
+## 🌟 My Projects
+
+### 🌐 Personal Portfolio
+My personal portfolio website.
+
+🔗 **Portfolio Repository:** [View on GitHub](https://github.com/daniyal-codes12/Daniyal-Channa-Software-Engineer-Portfolio)
+
+### ✈️ Daniyal Travel Service
+A travel service website project.
+
+🔗 **Repository:** [View on GitHub](https://github.com/daniyal-codes12/Daniyal-Travel-Service)
+
+🔗 **Live Website:** [Daniyal Travel Service](https://daniyal-travel-service.vercel.app/)
+
+## 📫 Connect With Me
+- **GitHub:** [daniyal-codes12](https://github.com/daniyal-codes12)
+
+---
+⭐ *Learning, building, and improving one project at a time.*
