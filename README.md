@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/daniyal-hero.svg" alt="Daniyal Channa - Software Engineering Student" width="100%" />
+<img src="daniyal-hero.svg" alt="Daniyal Channa - Software Engineering Student" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Development+%7C+Vibe+Coding;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
 
@@ -87,7 +87,7 @@ My personal portfolio repository.
 </div>
 
 <div align="center">
-  <img src="assets/daniyal-footer.svg" alt="Keep learning, keep building" width="100%" />
+  <img src="daniyal-footer.svg" alt="Keep learning, keep building" width="100%" />
   <br/>
   <sub>⚡ Keep Learning • Keep Building • Keep Growing 🚀</sub>
 </div>
